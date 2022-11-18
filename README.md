@@ -4,7 +4,7 @@ This repo provides the source code and data for the paper [Emotion-Cause Relatio
 
 
 <p align="center">
-  <img src="example.png" width="600" title="An example of data reconstruction" alt="">
+  <img src="example.png" width="300" title="An example of data reconstruction" alt="">
 </p>
 
 ## Requirements
