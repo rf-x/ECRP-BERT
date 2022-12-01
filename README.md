@@ -21,7 +21,7 @@ This repo provides the source code and data for the paper [Emotion-Cause Relatio
 ```
 python src/utils/construct_data.py
 ```
-You can change the variabl `rel_distance` to construct dataset with the corresponding relative distacne.
+Change the variabl `rel_distance` to construct dataset with the corresponding relative distacne.
 
 4. Training the model:
 
