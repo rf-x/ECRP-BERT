@@ -14,22 +14,23 @@ This repo provides the source code and data for the paper [Emotion-Cause Relatio
 - transformers == 4.5.1
 
 ##  Usage
-1. Download the pertrained ["BERT-Base, Chinese"](https://github.com/google-research/bert) model
-2. Construct data:
+1. Origianl data can be download from [this link](https://github.com/Determined22/Rank-Emotion-Cause). And put it to the fold `data`
+2. Download the pertrained ["BERT-Base, Chinese"](https://github.com/google-research/bert) model from [this link](https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese.tar.gz). And put it to the folder `src/bert-base-chinese`.
+3. Construct data:
 
 ```
-python ./src/utils/construct_data.py
+python src/utils/construct_data.py
 ```
 
-3. Training the model:
+4. Training the model:
 
 ```
-python ./src/main.py
+python src/main.py
 ```
 
-4. Evaluate results:
+5. Evaluate results:
 ```
-python ./src/eval.py
+python src/eval.py
 ```
 
 
