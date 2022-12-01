@@ -14,19 +14,20 @@ This repo provides the source code and data for the paper [Emotion-Cause Relatio
 - transformers == 4.5.1
 
 ##  Usage
-Construct data:
+1. Download the pertrained ["BERT-Base, Chinese"](https://github.com/google-research/bert) model
+2. Construct data:
 
 ```
 python ./src/utils/construct_data.py
 ```
 
-Training the model:
+3. Training the model:
 
 ```
 python ./src/main.py
 ```
 
-Evaluate results:
+4. Evaluate results:
 ```
 python ./src/eval.py
 ```
