@@ -1,6 +1,6 @@
 # Emotion-Cause Relationship Between Clauses Prediction: a Novel Method Based on BERT for Emotion-Cause Pair Extraction
 
-This repo provides the source code and data for the paper [Emotion-Cause Relationship Between Clauses Prediction: a Novel Method Based on BERT for Emotion-Cause Pair Extraction]() (2022).
+This repo provides the source code and data for the paper [Emotion-Cause Relationship Between Clauses Prediction: a Novel Method Based on BERT for Emotion-Cause Pair Extraction](https://ieeexplore.ieee.org/abstract/document/10020298) (2022).
 
 
 <p align="center">
