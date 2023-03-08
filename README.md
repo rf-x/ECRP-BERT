@@ -47,5 +47,13 @@ Many thanks to the authors and developers!
 ## Others
 If this work is helpful, please cite as:
 ```bib
-
+@INPROCEEDINGS{10020298,
+  author={Fan, Rui and He, Tingting and Wang, Yufan and Hong, Jie and Tu, Xinhui},
+  booktitle={2022 IEEE International Conference on Big Data (Big Data)}, 
+  title={Emotion-Cause Relationship Between Clauses Prediction: a Novel Method Based on BERT for Emotion-Cause Pair Extraction}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={721-726},
+  doi={10.1109/BigData55660.2022.10020298}}
 ```
